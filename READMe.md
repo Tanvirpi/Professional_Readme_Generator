@@ -1,6 +1,6 @@
-# rf
+# ecd
 
-! [GitHub license](https://img.shields.io/badge/license-APACHE 2.0-blue.svg)
+! [GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## TableOfContents
 
@@ -24,28 +24,28 @@
 
 
 ### description
-rvf  
+ec  
 
 ### license
-This application is covered under APACHE 2.0 license
+This application is covered under MIT license
 
 
 ### Installatiom
-rcv
+edc
 
 ### usage
-rfc
+edc
 
 ### Contribution
-rc
+ec
 
-__Contributors to the project: rc__
+__Contributors to the project: ec__
 
 ### Testing Instructions
-rc
+ec
 
 ### Email
-rc
+ec
 
 ### Github
-rc
+ec
