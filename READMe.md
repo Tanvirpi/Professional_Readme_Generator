@@ -1,6 +1,6 @@
-# ecd
+# Readme generator
 
-! [GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## TableOfContents
 
@@ -24,28 +24,28 @@
 
 
 ### description
-ec  
+CLI node app to generate readme  
 
 ### license
 This application is covered under MIT license
 
 
 ### Installatiom
-edc
+npm i
 
 ### usage
-edc
+Free
 
 ### Contribution
-ec
+Tanvir Iqbal is the main contributor
 
-__Contributors to the project: ec__
+__Contributors to the project: Tanvir Iqbal is the main contributor__
 
 ### Testing Instructions
-ec
+Manual
 
 ### Email
-ec
+tanvir.pi@gmail.com
 
 ### Github
-ec
+tanvirpi
