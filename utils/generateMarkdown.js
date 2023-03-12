@@ -25,40 +25,55 @@ function generateMarkdown(data) {
   const licenseBadge = renderLicenseBadge(data.license);
   const licenseSection = renderLicenseSection(data.license);
   return `${title}
-${licenseBadge}
+${renderLicenseBadge(data.license)}
 
 ## TableOfContents
 
 
 * [Description](#description)
-${data.description}
 
 * [License](#license)
-${data.license}
 
 * [Installation](#installation)
-${data.installation}
 
 * [Usage](#usage)
-${data.usage}
 
 * [Contribution](#contribution)
-${data.contribution}
 
 * [TestInstructions](#testInstructions)
-${data.test_instructions}
 
 * [email](#email)
-${data.email}
 
 * [Github](#github)
-${data.github}
+
+
 
 ### description
 ${data.description}  
 
 ### license
-${licenseSection}
+${renderLicenseSection(data.license)}
+
+
+### Installatiom
+${data.installation}
+
+### usage
+${data.usage}
+
+### Contribution
+${data.contribution}
+
+__Contributors to the project: ${data.contribution}__
+
+### Testing Instructions
+${data.test_instructions}
+
+### Email
+${data.email}
+
+### Github
+${data.github}
 `;
 }
 
