@@ -46,6 +46,10 @@ ${renderLicenseBadge(data.license)}
 
 * [Github](#github)
 
+* [Readme_Link](#Readme_Link)
+
+* [Demo_Video](#Demo_Video)
+
 
 
 ### description
@@ -74,6 +78,13 @@ ${data.email}
 
 ### Github
 ${data.github}
+
+### Readme_Link
+[Live](https://github.com/Tanvirpi/Professional_Readme_Generator/blob/main/READMe.md#github)
+
+### Demo_Video
+
+
 `;
 }
 
