@@ -37,7 +37,7 @@ const questions = [
     },  
     {
         type:"list",
-        message:"Enter clicense?",
+        message:"Enter license?",
         name:'license',
         choices:["MIT","ISC","APACHE2.0","GPL2.0","No License"]
     },

@@ -1,4 +1,4 @@
-# Readme generator
+# Professional_readme_Generator
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -45,7 +45,7 @@ __Contributors to the project: Tanvir Iqbal is the main contributor__
 Manual
 
 ### Email
-tanvir.pi@gmail.com
+tanvirpi@gmail.com
 
 ### Github
 tanvirpi
