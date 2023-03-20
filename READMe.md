@@ -1,4 +1,4 @@
-# Professional_readme_Generator
+# Professional Readme Generator
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -24,7 +24,7 @@
 
 
 ### description
-CLI node app to generate readme  
+dynamically populate readme file based on input  
 
 ### license
 This application is covered under MIT license
@@ -49,11 +49,3 @@ tanvirpi@gmail.com
 
 ### Github
 tanvirpi
-
-
-### Demo Video Link
-
-
-
-### Readme Link
-[Live](https://github.com/Tanvirpi/Professional_Readme_Generator/blob/main/READMe.md)
