@@ -1,4 +1,4 @@
-# Readme
+# Professional Readme Generator
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -28,31 +28,31 @@
 
 
 ### description
-bkabla  
+generate a readme file by using a command-line application  
 
 ### license
 This application is covered under MIT license
 
 
 ### Installatiom
-jdjd
+npm i
 
 ### usage
-deddd
+Free
 
 ### Contribution
-ddd
+Tanvir Iqbal is the main contributor
 
-__Contributors to the project: ddd__
+__Contributors to the project: Tanvir Iqbal is the main contributor__
 
 ### Testing Instructions
-ddd
+Manual
 
 ### Email
-dd
+tanvirpi@gmail.com
 
 ### Github
-dd
+tanvirpi
 
 ### Readme_Link
 [Live](https://github.com/Tanvirpi/Professional_Readme_Generator/blob/main/READMe.md#github)
